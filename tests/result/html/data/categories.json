@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert '成功' in '{\"code\": 1, \"data\": null, \"ts\": 1612518142584, \"err_msg\": \"不支持的K线类型\"}'",
+      "children" : [ {
+        "name" : "test_kline[datas8]",
+        "uid" : "42335f5bb089bd19",
+        "parentUid" : "cea0121b008433db7c2e9c9142b64660",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612518140286,
+          "stop" : 1612518140352,
+          "duration" : 66
+        },
+        "flaky" : true,
+        "parameters" : [ "{'caseID': 'test_009', '描述': '[异常]不支持的K线类型', '请求地址': '/api/v2/pub/kline', '请求方法': 'get', '请求数据': 'test_009', '是否运行': 'yes', '期望': '成功', '依赖': '', '所需要的依赖数据': '', 'SQL': '', '是否需要token': 'yes'}" ]
+      } ],
+      "uid" : "cea0121b008433db7c2e9c9142b64660"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

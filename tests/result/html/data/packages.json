@@ -1,0 +1,117 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_jex",
+    "children" : [ {
+      "name" : "test_kline[datas0]",
+      "uid" : "6bb768138e3596e7",
+      "parentUid" : "482859ab2bb2cc2bfadca36bf3e3c931",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518139212,
+        "stop" : 1612518139541,
+        "duration" : 329
+      },
+      "flaky" : false,
+      "parameters" : [ "{'caseID': 'test_001', '描述': '[正常]K线-1分钟', '请求地址': '/api/v2/pub/kline', '请求方法': 'get', '请求数据': 'test_001', '是否运行': 'yes', '期望': '成功', '依赖': '', '所需要的依赖数据': '', 'SQL': '', '是否需要token': 'yes'}" ]
+    }, {
+      "name" : "test_kline[datas1]",
+      "uid" : "6015792c77b98cc8",
+      "parentUid" : "482859ab2bb2cc2bfadca36bf3e3c931",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518139543,
+        "stop" : 1612518139636,
+        "duration" : 93
+      },
+      "flaky" : false,
+      "parameters" : [ "{'caseID': 'test_002', '描述': '[正常]K线-5分钟', '请求地址': '/api/v2/pub/kline', '请求方法': 'get', '请求数据': 'test_002', '是否运行': 'yes', '期望': '成功', '依赖': '', '所需要的依赖数据': '', 'SQL': '', '是否需要token': 'yes'}" ]
+    }, {
+      "name" : "test_kline[datas2]",
+      "uid" : "48f33e9dc37709c",
+      "parentUid" : "482859ab2bb2cc2bfadca36bf3e3c931",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518139639,
+        "stop" : 1612518139766,
+        "duration" : 127
+      },
+      "flaky" : false,
+      "parameters" : [ "{'caseID': 'test_003', '描述': '[正常]K线-15分钟', '请求地址': '/api/v2/pub/kline', '请求方法': 'get', '请求数据': 'test_003', '是否运行': 'yes', '期望': '成功', '依赖': '', '所需要的依赖数据': '', 'SQL': '', '是否需要token': 'no'}" ]
+    }, {
+      "name" : "test_kline[datas3]",
+      "uid" : "4f60fd2d0f5e6322",
+      "parentUid" : "482859ab2bb2cc2bfadca36bf3e3c931",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518139769,
+        "stop" : 1612518139886,
+        "duration" : 117
+      },
+      "flaky" : false,
+      "parameters" : [ "{'caseID': 'test_004', '描述': '[正常]K线-30分钟', '请求地址': '/api/v2/pub/kline', '请求方法': 'get', '请求数据': 'test_004', '是否运行': 'yes', '期望': '成功', '依赖': '', '所需要的依赖数据': '', 'SQL': '', '是否需要token': 'yes'}" ]
+    }, {
+      "name" : "test_kline[datas4]",
+      "uid" : "57195199dd274097",
+      "parentUid" : "482859ab2bb2cc2bfadca36bf3e3c931",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518139889,
+        "stop" : 1612518139991,
+        "duration" : 102
+      },
+      "flaky" : false,
+      "parameters" : [ "{'caseID': 'test_005', '描述': '[正常]K线-1小时', '请求地址': '/api/v2/pub/kline', '请求方法': 'get', '请求数据': 'test_005', '是否运行': 'yes', '期望': '成功', '依赖': '', '所需要的依赖数据': '', 'SQL': '', '是否需要token': 'no'}" ]
+    }, {
+      "name" : "test_kline[datas5]",
+      "uid" : "9f72821c61034ec6",
+      "parentUid" : "482859ab2bb2cc2bfadca36bf3e3c931",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518139994,
+        "stop" : 1612518140091,
+        "duration" : 97
+      },
+      "flaky" : false,
+      "parameters" : [ "{'caseID': 'test_006', '描述': '[正常]K线-4小时', '请求地址': '/api/v2/pub/kline', '请求方法': 'get', '请求数据': 'test_006', '是否运行': 'yes', '期望': '成功', '依赖': '', '所需要的依赖数据': '', 'SQL': '', '是否需要token': 'no'}" ]
+    }, {
+      "name" : "test_kline[datas6]",
+      "uid" : "843f652c5340f48b",
+      "parentUid" : "482859ab2bb2cc2bfadca36bf3e3c931",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518140094,
+        "stop" : 1612518140205,
+        "duration" : 111
+      },
+      "flaky" : false,
+      "parameters" : [ "{'caseID': 'test_007', '描述': '[正常]K线-1天', '请求地址': '/api/v2/pub/kline', '请求方法': 'get', '请求数据': 'test_007', '是否运行': 'yes', '期望': '成功', '依赖': '', '所需要的依赖数据': '', 'SQL': '', '是否需要token': 'yes'}" ]
+    }, {
+      "name" : "test_kline[datas7]",
+      "uid" : "6e5f7d1bdf438685",
+      "parentUid" : "482859ab2bb2cc2bfadca36bf3e3c931",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518140208,
+        "stop" : 1612518140283,
+        "duration" : 75
+      },
+      "flaky" : false,
+      "parameters" : [ "{'caseID': 'test_008', '描述': '[正常]K线-1周', '请求地址': '/api/v2/pub/kline', '请求方法': 'get', '请求数据': 'test_008', '是否运行': 'yes', '期望': '成功', '依赖': '', '所需要的依赖数据': '', 'SQL': '', '是否需要token': 'yes'}" ]
+    }, {
+      "name" : "test_kline[datas8]",
+      "uid" : "42335f5bb089bd19",
+      "parentUid" : "482859ab2bb2cc2bfadca36bf3e3c931",
+      "status" : "failed",
+      "time" : {
+        "start" : 1612518140286,
+        "stop" : 1612518140352,
+        "duration" : 66
+      },
+      "flaky" : true,
+      "parameters" : [ "{'caseID': 'test_009', '描述': '[异常]不支持的K线类型', '请求地址': '/api/v2/pub/kline', '请求方法': 'get', '请求数据': 'test_009', '是否运行': 'yes', '期望': '成功', '依赖': '', '所需要的依赖数据': '', 'SQL': '', '是否需要token': 'yes'}" ]
+    } ],
+    "uid" : "482859ab2bb2cc2bfadca36bf3e3c931"
+  } ]
+}

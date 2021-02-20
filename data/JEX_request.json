@@ -1,0 +1,19 @@
+{"test_001":
+  {"symbolId":27,"type":"1min"},
+  "test_002":
+  {"symbolId":27,"type":"5min"},
+  "test_003":
+  {"symbolId":27,"type":"15min"},
+  "test_004":
+  {"symbolId":27,"type":"30min"},
+  "test_005":
+  {"symbolId":27,"type":"60min"},
+  "test_006":
+  {"symbolId":27,"type":"4hour"},
+  "test_007":
+  {"symbolId":27,"type":"1day"},
+  "test_008":
+  {"symbolId":27,"type":"1week"},
+  "test_009":
+  {"symbolId":27,"type":"1week1"}
+}

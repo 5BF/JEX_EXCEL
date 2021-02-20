@@ -1,0 +1,174 @@
+{
+  "22520bb433a8502ec0d394e31658affe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "843f652c5340f48b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518140094,
+        "stop" : 1612518140205,
+        "duration" : 111
+      }
+    } ]
+  },
+  "475e3656f89b5a48d1dbc820f5a34888" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e5f7d1bdf438685",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518140208,
+        "stop" : 1612518140283,
+        "duration" : 75
+      }
+    } ]
+  },
+  "78aa2dc4f383474c0b3e2d56fe446ba4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "42335f5bb089bd19",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '成功' in '{\"code\": 1, \"data\": null, \"ts\": 1612518142584, \"err_msg\": \"不支持的K线类型\"}'",
+      "time" : {
+        "start" : 1612518140286,
+        "stop" : 1612518140352,
+        "duration" : 66
+      }
+    } ]
+  },
+  "a624195e6939c791fdf40adad770252c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f60fd2d0f5e6322",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518139769,
+        "stop" : 1612518139886,
+        "duration" : 117
+      }
+    } ]
+  },
+  "551f908772501205c7b8498de1469b8b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "48f33e9dc37709c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518139639,
+        "stop" : 1612518139766,
+        "duration" : 127
+      }
+    } ]
+  },
+  "d13fb055eca613c1e49287b5e5f9f5db" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6015792c77b98cc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518139543,
+        "stop" : 1612518139636,
+        "duration" : 93
+      }
+    } ]
+  },
+  "718274713331b15a78dc6a3b705666ca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9f72821c61034ec6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518139994,
+        "stop" : 1612518140091,
+        "duration" : 97
+      }
+    } ]
+  },
+  "35de79b8a2e6853fc68709f36bdac735" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6bb768138e3596e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518139212,
+        "stop" : 1612518139541,
+        "duration" : 329
+      }
+    } ]
+  },
+  "09ddc353d6cf4edc9b303ed3ecc797ee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "57195199dd274097",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518139889,
+        "stop" : 1612518139991,
+        "duration" : 102
+      }
+    } ]
+  }
+}

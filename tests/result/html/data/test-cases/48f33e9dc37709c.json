@@ -1,0 +1,302 @@
+{
+  "uid" : "48f33e9dc37709c",
+  "name" : "test_kline[datas2]",
+  "fullName" : "test_jex#test_kline",
+  "historyId" : "551f908772501205c7b8498de1469b8b",
+  "time" : {
+    "start" : 1612518139639,
+    "stop" : 1612518139766,
+    "duration" : 127
+  },
+  "description" : "获取请求数据",
+  "descriptionHtml" : "<p>获取请求数据</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_jex"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HM55AIG"
+  }, {
+    "name" : "thread",
+    "value" : "10052-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_jex"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "datas",
+    "value" : "{'caseID': 'test_003', '描述': '[正常]K线-15分钟', '请求地址': '/api/v2/pub/kline', '请求方法': 'get', '请求数据': 'test_003', '是否运行': 'yes', '期望': '成功', '依赖': '', '所需要的依赖数据': '', 'SQL': '', '是否需要token': 'no'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ac037ee4c9123da2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518116074,
+        "stop" : 1612518116171,
+        "duration" : 97
+      }
+    }, {
+      "uid" : "4f1ac502c54bda10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518056434,
+        "stop" : 1612518056539,
+        "duration" : 105
+      }
+    }, {
+      "uid" : "fe3876035564d706",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612518031647,
+        "stop" : 1612518031750,
+        "duration" : 103
+      }
+    }, {
+      "uid" : "bbb2b05533ae12ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612516908886,
+        "stop" : 1612516908905,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "a88828240fe7bb72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612516872031,
+        "stop" : 1612516872050,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "ef289761992dbdb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612516848198,
+        "stop" : 1612516848217,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "897324cea0b07129",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612516764340,
+        "stop" : 1612516764358,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "3cda1ab301c58adc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612513940160,
+        "stop" : 1612513940186,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "8fdd270bd722eeb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612513920711,
+        "stop" : 1612513920733,
+        "duration" : 22
+      }
+    }, {
+      "uid" : "e451bedd5117fef7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612513737750,
+        "stop" : 1612513737771,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "c82c72d95894ef86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612513434721,
+        "stop" : 1612513434740,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "6a5cbd37afc59160",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612513293033,
+        "stop" : 1612513293050,
+        "duration" : 17
+      }
+    }, {
+      "uid" : "b74920ba85416638",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612512554456,
+        "stop" : 1612512554485,
+        "duration" : 29
+      }
+    }, {
+      "uid" : "3ff14908e13e4572",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612512516076,
+        "stop" : 1612512516095,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "87c88004b6335ce5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612512372778,
+        "stop" : 1612512372799,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "b8076cf6eb7b2e32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612512224249,
+        "stop" : 1612512224268,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "ab501eaf2256d37f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612512152207,
+        "stop" : 1612512152226,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "714242e5eba5c791",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612512073366,
+        "stop" : 1612512073403,
+        "duration" : 37
+      }
+    }, {
+      "uid" : "b06c4718bca452d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612512031486,
+        "stop" : 1612512031506,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "316de03597670363",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612511987553,
+        "stop" : 1612511987574,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "43ab4c7f62686ab2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612511972444,
+        "stop" : 1612511972462,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "79b7546a02788cfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612511941007,
+        "stop" : 1612511941028,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "b996b58a03b67997",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612511748908,
+        "stop" : 1612511748928,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "4d8f3deefcb82df3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612511721270,
+        "stop" : 1612511721300,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "819d899ff74eae3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612511590822,
+        "stop" : 1612511590840,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "e3ec49b0ffe1190c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612511544235,
+        "stop" : 1612511544257,
+        "duration" : 22
+      }
+    }, {
+      "uid" : "ad6464fbadbe01d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612511355995,
+        "stop" : 1612511356014,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "5d884812dcb95ea3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612510956787,
+        "stop" : 1612510956807,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "63b2f007fbc42e38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612510012191,
+        "stop" : 1612510012219,
+        "duration" : 28
+      }
+    }, {
+      "uid" : "36e693606450ef0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612509891547,
+        "stop" : 1612509891564,
+        "duration" : 17
+      }
+    }, {
+      "uid" : "ca219375053a624f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612509816325,
+        "stop" : 1612509816353,
+        "duration" : 28
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "48f33e9dc37709c.json",
+  "parameterValues" : [ "{'caseID': 'test_003', '描述': '[正常]K线-15分钟', '请求地址': '/api/v2/pub/kline', '请求方法': 'get', '请求数据': 'test_003', '是否运行': 'yes', '期望': '成功', '依赖': '', '所需要的依赖数据': '', 'SQL': '', '是否需要token': 'no'}" ]
+}

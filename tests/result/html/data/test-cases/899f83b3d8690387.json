@@ -1,0 +1,52 @@
+{
+  "uid" : "899f83b3d8690387",
+  "name" : "test_kline[datas1]",
+  "fullName" : "test_jex#test_kline",
+  "historyId" : "d13fb055eca613c1e49287b5e5f9f5db",
+  "time" : {
+    "start" : 1612512372734,
+    "stop" : 1612512372775,
+    "duration" : 41
+  },
+  "description" : "获取请求数据",
+  "descriptionHtml" : "<p>获取请求数据</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_jex"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HM55AIG"
+  }, {
+    "name" : "thread",
+    "value" : "220772-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_jex"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "datas",
+    "value" : "{'caseID': 'test_002', '描述': '[正常]K线-5分钟', '请求地址': '/api/v2/pub/kline', '请求方法': 'get', '请求数据': 'test_002', '是否运行': 'yes', '期望': '成功', '依赖': '', '所需要的依赖数据': '', 'SQL': '', '是否需要token': 'yes'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "899f83b3d8690387.json",
+  "parameterValues" : [ "{'caseID': 'test_002', '描述': '[正常]K线-5分钟', '请求地址': '/api/v2/pub/kline', '请求方法': 'get', '请求数据': 'test_002', '是否运行': 'yes', '期望': '成功', '依赖': '', '所需要的依赖数据': '', 'SQL': '', '是否需要token': 'yes'}" ]
+}
