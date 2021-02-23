@@ -1,3 +1,5 @@
+import os
+import sys
 import requests
 from utils.operationExcel2 import OperationExcel,ExcelValuesitem
 from utils.operationJson import OperationJson
